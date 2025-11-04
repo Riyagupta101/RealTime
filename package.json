@@ -10,6 +10,10 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
+<<<<<<< HEAD
+=======
+    "dotenv": "^16.4.5",
+>>>>>>> 2db2bb7 (first commit)
     "express": "^4.21.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.13.8",
